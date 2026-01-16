@@ -1,61 +1,51 @@
-# Pang Trekking — Generative Engine Optimization Map
-
-> A tourism and adventure travel business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://pang-trekking-566089af.zappy5.app
+https://example.com
 Experience authentic Sapa trekking with local guides. Explore rice terraces, mountain villages, and breathtaking landscapes. Book your adventure today!
 
 ### Tours
-https://pang-trekking-566089af.zappy5.app/tours
+https://example.com/tours
 Explore our range of Sapa trekking tours from easy day hikes to challenging multi-day expeditions. Expert guides, authentic experiences, stunning landscapes.
 
 ### Gallery
-https://pang-trekking-566089af.zappy5.app/gallery
+https://example.com/gallery
 Browse our stunning photo gallery and testimonials from hundreds of satisfied trekkers. See the beauty of Sapa and read authentic reviews from our guests.
 
 ### About
-https://pang-trekking-566089af.zappy5.app/about
+https://example.com/about
 Learn about Pang Trekking's story, our local guides, and our commitment to sustainable tourism in Sapa. Authentic adventures led by mountain experts.
 
 ### Contact
-https://pang-trekking-566089af.zappy5.app/contact
+https://example.com/contact
 Get in touch with Pang Trekking to book your Sapa adventure. Quick responses, flexible booking, and personalized trek planning. Contact us today!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://pang-trekking-566089af.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://pang-trekking-566089af.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://pang-trekking-566089af.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Pang Trekking
-Pang Trekking is a business in the tourism and adventure travel industry.
-
-## Target Audience
-tourists visiting Sapa, Vietnam
-
-## Industry
-tourism and adventure travel
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://pang-trekking-566089af.zappy5.app/sitemap.xml
-- **Robots.txt**: https://pang-trekking-566089af.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
