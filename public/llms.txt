@@ -1,6 +1,4 @@
-# PangSapaTrekking — Generative Engine Optimization Map
-
-> A tourism and adventure travel business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -44,15 +42,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About PangSapaTrekking
-PangSapaTrekking is a business in the tourism and adventure travel industry.
-
-## Target Audience
-tourists visiting Sapa, Vietnam
-
-## Industry
-tourism and adventure travel
-
+## About Business
 ---
 
 # Additional Resources
